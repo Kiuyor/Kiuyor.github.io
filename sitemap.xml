@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kiuyor.github.io/2023/01/10/2023%E5%B9%B41%E6%9C%8810%E6%97%A5/</loc>
+    
+    <lastmod>2023-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kiuyor.github.io/2023/02/18/%E6%B7%B1%E8%B0%88ChatGPT%EF%BC%88%E4%B8%8A%EF%BC%89/</loc>
     
     <lastmod>2023-02-18</lastmod>
@@ -46,34 +55,25 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://kiuyor.github.io/2023/01/10/2023%E5%B9%B41%E6%9C%8810%E6%97%A5/</loc>
-    
-    <lastmod>2023-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://kiuyor.github.io/</loc>
-    <lastmod>2023-02-18</lastmod>
+    <lastmod>2023-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://kiuyor.github.io/tags/study/</loc>
-    <lastmod>2023-02-18</lastmod>
+    <loc>https://kiuyor.github.io/tags/ChatGPT/</loc>
+    <lastmod>2023-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kiuyor.github.io/tags/ChatGPT/</loc>
-    <lastmod>2023-02-18</lastmod>
+    <loc>https://kiuyor.github.io/tags/study/</loc>
+    <lastmod>2023-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
