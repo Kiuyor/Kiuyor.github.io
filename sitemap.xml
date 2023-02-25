@@ -58,22 +58,22 @@
 
   <url>
     <loc>https://kiuyor.github.io/</loc>
-    <lastmod>2023-02-19</lastmod>
+    <lastmod>2023-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://kiuyor.github.io/tags/study/</loc>
-    <lastmod>2023-02-19</lastmod>
+    <loc>https://kiuyor.github.io/tags/ChatGPT/</loc>
+    <lastmod>2023-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kiuyor.github.io/tags/ChatGPT/</loc>
-    <lastmod>2023-02-19</lastmod>
+    <loc>https://kiuyor.github.io/tags/study/</loc>
+    <lastmod>2023-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
